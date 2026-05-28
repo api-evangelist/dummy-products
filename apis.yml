@@ -1,0 +1,32 @@
+aid: dummy-products
+name: Dummy Products
+description: "An api to fetch dummy e-commerce products JSON data with placeholder images"
+url: https://dummyproducts-api.herokuapp.com/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Shopping"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Shopping
+  - Public APIs
+apis:
+  - name: Dummy Products
+    description: "An api to fetch dummy e-commerce products JSON data with placeholder images"
+    humanURL: https://dummyproducts-api.herokuapp.com/
+    baseURL: https://dummyproducts-api.herokuapp.com/
+    tags:
+      - Shopping
+    properties:
+      - type: Documentation
+        url: https://dummyproducts-api.herokuapp.com/
+common:
+  - type: Website
+    url: https://dummyproducts-api.herokuapp.com/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

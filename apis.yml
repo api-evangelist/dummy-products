@@ -1,4 +1,16 @@
 aid: dummy-products
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/dummy-products.png
 name: Dummy Products
 description: "An api to fetch dummy e-commerce products JSON data with placeholder images"
 url: https://dummyproducts-api.herokuapp.com/

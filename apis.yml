@@ -39,7 +39,6 @@ apis:
   - name: Dummy Products
     description: "An api to fetch dummy e-commerce products JSON data with placeholder images"
     humanURL: https://dummyproducts-api.herokuapp.com/
-    baseURL: https://dummyproducts-api.herokuapp.com/
     tags:
       - Shopping
     properties:
